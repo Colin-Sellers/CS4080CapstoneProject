@@ -1,0 +1,14 @@
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\bin\Debug\net9.0\CapstoneProject.exe
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\bin\Debug\net9.0\CapstoneProject.deps.json
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\bin\Debug\net9.0\CapstoneProject.runtimeconfig.json
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\bin\Debug\net9.0\CapstoneProject.dll
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\bin\Debug\net9.0\CapstoneProject.pdb
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\CapstoneProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\CapstoneProject.AssemblyInfoInputs.cache
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\CapstoneProject.AssemblyInfo.cs
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\CapstoneProject.csproj.CoreCompileInputs.cache
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\CapstoneProject.dll
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\refint\CapstoneProject.dll
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\CapstoneProject.pdb
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\CapstoneProject.genruntimeconfig.cache
+C:\Users\colin\Desktop\School Stuff\Coding Assignments\CS 4080 Assignments\CapstoneProject\CapstoneProject\obj\Debug\net9.0\ref\CapstoneProject.dll
